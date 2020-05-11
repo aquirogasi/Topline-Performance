@@ -26,6 +26,8 @@ PART 2: Data Modeling: In the relationship view, arrange all the tables (Lookup,
 
 PART 3: Adding DAX Measures
 
+Some of the principal Dax Measures below:
+
 ![PART 3: Dax Measures](Images/Dax_1.jpg)
 
 ![PART 3: Dax Measures](Images/Dax_2.jpg)
