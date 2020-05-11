@@ -35,3 +35,8 @@ Some of the principal Dax Measures below:
 ![PART 3: Dax Measures](Images/Dax_3.jpg)
 
 ![PART 3: Dax Measures](Images/Dax_4.jpg)
+
+
+# PART 4: Building the final Report:
+
+![PART 4: Final Report](Images/Dashboard.jpg)
