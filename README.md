@@ -16,8 +16,11 @@ Through an analysis of the Maven Market data set, the objective of this project 
 
 # Visualizations and Analysis:
 
+PART 1: Connecting & Shaping the Data
 
 ![PART 1: Connecting & Shaping the Data](Images/Connected_csv_files.jpg)
+
+PART 2: Data Modeling: In the relationship view, arrange all the tables (Lookup, and Data Tables) by connecting them using valid primary/foreign keys
 
 ![PART 2: Data Modeling: In the relationship view, arrange all the tables (Lookup, and Data Tables) by connecting them using valid primary/foreign keys](Images/Data_Medeling.jpg)
 
