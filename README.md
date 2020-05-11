@@ -24,5 +24,12 @@ PART 2: Data Modeling: In the relationship view, arrange all the tables (Lookup,
 
 ![PART 2: Data Modeling: In the relationship view, arrange all the tables (Lookup, and Data Tables) by connecting them using valid primary/foreign keys](Images/Data_Medeling.jpg)
 
+PART 3: Adding DAX Measures
 
+![PART 3: Dax Measures](Images/Dax_1.jpg)
 
+![PART 3: Dax Measures](Images/Dax_2.jpg)
+
+![PART 3: Dax Measures](Images/Dax_3.jpg)
+
+![PART 3: Dax Measures](Images/Dax_4.jpg)
