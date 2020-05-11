@@ -39,4 +39,19 @@ Some of the principal Dax Measures below:
 
 # PART 4: Building the final Report:
 
+Dashboard Components:
+
+1) Matrix visual to show Total Transactions, Total Profit, Profit Margin, and Return Rate by Product_Brand (on rows)
+
+2) KPI Card to show Total Transactions, with Start of Month as the trend axis and Last Month Transactions as the target goal
+
+3) Map visual to show Total Transactions by store city & Slicer for store country
+
+4) Treemap visual to break down Total Transactions by store country
+
+5) Column Chart to show Total Revenue by week, and format as you see fit
+
+6) Gauge Chart to show Total Revenue against Revenue Target (as either "target value" or "maximum value")
+
+
 ![PART 4: Final Report](Images/Dashboard.jpg)
