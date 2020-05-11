@@ -43,7 +43,7 @@ Dashboard Components:
 
 1) Matrix visual to show Total Transactions, Total Profit, Profit Margin, and Return Rate by Product_Brand (on rows)
 
-2) KPI Card to show Total Transactions, with Start of Month as the trend axis and Last Month Transactions as the target goal
+2) KPI Card to show Total Transactions, with Start of Month as the trend axis and Last Month Transactions as the target goal. Two additional KPI Cards for Total Profit (vs. Last month Profit) and one for Total Returns (vs. Last Month Returns)
 
 3) Map visual to show Total Transactions by store city & Slicer for store country
 
