@@ -1,4 +1,4 @@
-# Topline-Performance Analysis - Maven Maket
+# Topline-Performance Analysis - Maven Market
 
 In this project I will be working with 'Maven Market', a multi-national grocery chain with locations in Canada, Mexico and the United States.
 Through an analysis of the Maven Market data set, the objective of this project is to calculate and visualize the top performance indicators for the client. Microsoft Power BI will be used through the entire business inteligence workflow.
